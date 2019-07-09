@@ -10,20 +10,19 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import org.springframework.test.context.junit4.SpringRunner;
 
 
-
-    @RunWith(SpringRunner.class)
-    @SpringBootTest
-    public class ForumUserTestSuite {
-        @Test
-        public void testGetUsername() {
-            //Given
-            ApplicationContext context =
-                    new AnnotationConfigApplicationContext("com.kodilla.spring");
-            ForumUser userName = context.getBean(ForumUser.class);
-            //When
-            String UserName = userName.getUsername();
-            //Then
-            Assert.assertEquals("John Smith", UserName);
-        }
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class ForumUserTestSuite {
+    @Test
+    public void testGetUsername() {
+        //Given
+        ApplicationContext context =
+                new AnnotationConfigApplicationContext("com.kodilla.spring");
+        ForumUser userName = context.getBean(ForumUser.class);
+        //When
+        String UserName = userName.getUsername();
+        //Then
+        Assert.assertEquals("John Smith", UserName);
+    }
 
 }

@@ -1,2 +1,6 @@
-rootProject.name = 'kodilla-spring'
-
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'kodilla-spring-web'
