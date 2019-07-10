@@ -8,7 +8,7 @@ public final class Logger {
     private Logger() {
     }
 
-    public static Logger getLastLog() {
+    public static Logger getInstance() {
         if (logger == null) {
             synchronized(Logger.class) {
                 if (logger == null) {
@@ -16,7 +16,7 @@ public final class Logger {
                 }
             }
         }
-        return lastLog;
+        return logger;
     }
 
 

@@ -2,109 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ece70785-8894-4ef6-bcfc-c645caad5a36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_9_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_9_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-spring-intro.kodilla-spring-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-spring-web.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-spring-web.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/calculator/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/library/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/library/LibraryConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio/BoardConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio/TaskList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/reader/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/reader/IfDayIsOddCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/reader/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/reader/ReaderConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/calculator/CalculatorTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/library/LibraryTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/portfolio/BoardTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/reader/ReaderTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-jdbc.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-jdbc.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-patterns.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/kodilla-patterns.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-jdbc/src/main/java/com/kodilla/jdbc/DbManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-jdbc/src/test/java/com/kodilla/jdbc/DbManagerTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Checkers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/FigureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Pawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/builder/checkers/CheckersTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/builder/pizza/PizzaTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/factory/ShapeFactoryTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-spring-web.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/kodilla-spring-web.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-spring-web.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/kodilla-spring-web.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/4.10.3/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/4.10.3/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/4.10.3/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/classes/java/test/com/kodilla/spring/SpringRunnerTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/classes/java/test/com/kodilla/spring/SpringRunnerTestSuite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/classes/com.kodilla.spring.forum.ForumUserTestSuite.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/reports/tests/test/packages/com.kodilla.spring.forum.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/TEST-com.kodilla.spring.forum.ForumUserTestSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/SpringRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/SpringRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/forum/ForumUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/forum/ForumUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/SpringRunnerTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/SpringRunnerTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/forum/ForumUserTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/forum/ForumUserTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-patterns/out/production/classes/com/kodilla/patterns/singleton/SettingsFileEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-patterns/out/production/classes/com/kodilla/patterns/singleton/SettingsFileEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-patterns/out/test/classes/com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/Logger.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/kodilla-spring/.gradle/" />
@@ -113,6 +47,12 @@
     <ignored path="$PROJECT_DIR$/kodilla-spring-web/build/" />
     <ignored path="$PROJECT_DIR$/kodilla-spring/out/" />
     <ignored path="$PROJECT_DIR$/kodilla-spring-web/out/" />
+    <ignored path="$PROJECT_DIR$/kodilla-patterns/.gradle/" />
+    <ignored path="$PROJECT_DIR$/kodilla-patterns/build/" />
+    <ignored path="$PROJECT_DIR$/kodilla-patterns/out/" />
+    <ignored path="$PROJECT_DIR$/kodilla-jdbc/.gradle/" />
+    <ignored path="$PROJECT_DIR$/kodilla-jdbc/build/" />
+    <ignored path="$PROJECT_DIR$/kodilla-jdbc/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +63,15 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/kodilla-hibernete">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/kodilla-jdbc">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/kodilla-patterns">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/kodilla-spring">
       <ProjectState />
     </projectState>
@@ -143,18 +92,121 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/kodilla-spring-intro/com/kodilla/spring/intro/SpringIntroRunner.class">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Pawn.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
+              <caret selection-end-line="6" selection-end-column="1" />
               <folding>
-                <element signature="e#0#331#0" expanded="true" />
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Queen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/FigureFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+              <folding>
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Checkers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+              <folding>
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/builder/checkers/CheckersTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-jdbc/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-jdbc/src/main/java/com/kodilla/jdbc/DbManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#925#926#0" expanded="true" />
+                <element signature="e#952#953#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kodilla-spring-web/src/main/java/com/kodilla/spring/web/KodillaSpringWebApplication.java">
+        <entry file="file://$PROJECT_DIR$/kodilla-jdbc/src/test/java/com/kodilla/jdbc/DbManagerTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-jdbc/settings.gradle">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -176,32 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/kodilla/spring/intro/shape/Figure.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kodilla/spring/intro/shape/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kodilla/spring/intro/shape/Circle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kodilla/spring/intro/SpringIntroRunner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kodilla/spring/intro/shape/Drawer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/kodilla/spring/intro/shape/DrawerTestSuite.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring-intro/scr/main/java/SpringIntroRunner.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring-intro/scr/main/java/com/kodilla/spring/intro/shape/Figure.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring-intro/scr/main/java/com/kodilla/spring/intro/shape/Shape.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring-intro/scr/main/java/com/kodilla/spring/intro/shape/Triangle.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring-intro/scr/main/java/com/kodilla/spring/intro/shape/Circle.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring-intro/scr/main/java/com/kodilla/spring/intro/shape/Drawer.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring-intro/scr/test/java/com/kodilla/spring/intro/shape/DrawerTestSuite.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring/build.gradle" />
-        <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/Triangle.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/Circle.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/Shape.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/SpringRunner.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/forum/ForumUser.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/forum/ForumUserTestSuite.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/Square.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/ShapesFactory.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/SpringRunnerTestSuite.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/library/LibraryDbController.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/calculator/Display.java" />
-        <option value="$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/calculator/CalculatorTestSuite.java" />
         <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/calculator/Display.java" />
         <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/calculator/Calculator.java" />
         <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/library/Library.java" />
@@ -215,6 +241,44 @@
         <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio.java" />
         <option value="$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/portfolio/BoardTestSuite.java" />
         <option value="$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio/Board.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/PatternsRunner.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/SettingsFileEngine.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Task.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/TasksList.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Prototype.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Board.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/BoardTestSuite.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Book.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Library.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/BuyPredictor.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/predictors/AggressivePredictor.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/predictors/BalancedPredictor.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/predictors/ConservativePredictor.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/Customer.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/CorporateCustomer.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/IndividualYoungCustomer.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/IndividualCustomer.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/strategy/CustomerTestSuite.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/Logger.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Shape.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Circle.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Square.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Rectangle.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/factory/ShapeFactoryTestSuite.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/pizza/Pizza.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/builder/pizza/PizzaTestSuite.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Figure.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Pawn.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Queen.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/FigureFactory.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Board.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Checkers.java" />
+        <option value="$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/builder/checkers/CheckersTestSuite.java" />
+        <option value="$PROJECT_DIR$/kodilla-jdbc/build.gradle" />
+        <option value="$PROJECT_DIR$/kodilla-jdbc/src/main/java/com/kodilla/jdbc/DbManager.java" />
+        <option value="$PROJECT_DIR$/kodilla-jdbc/src/test/java/com/kodilla/jdbc/DbManagerTestSuite.java" />
       </list>
     </option>
   </component>
@@ -240,73 +304,69 @@
             <path>
               <item name="kodilla-spring-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodilla-spring-intro" type="462c0819:PsiDirectoryNode" />
-              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="kodilla-hibernete" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="kodilla-spring-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodilla-spring-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-spring-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="kodilla-spring-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodilla-spring-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-spring-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kodilla-spring-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodilla-spring-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-spring-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="kodilla-spring-intro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kodilla-spring-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-spring-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kodilla-spring-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodilla-spring-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-spring-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kodilla-spring-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodilla-spring-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-spring-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="kodilla-spring-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodilla-spring-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-spring-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-jdbc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kodilla-spring-intro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kodilla-spring-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="kodilla-spring-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="kodilla-spring-intro" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="kodilla-patterns" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,6 +374,10 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -346,95 +410,88 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.KodillaSpringWebApplication">
-    <configuration name="LibraryTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-spring" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.library.LibraryTestSuite&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="LibraryTestSuite.testLoadFromDb" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-spring" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.library.LibraryTestSuite.testLoadFromDb&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="SpringRunnerTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/kodilla-spring" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.kodilla.spring.SpringRunnerTestSuite&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="LibraryTestSuite.testContext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kodilla-spring.test" />
+  <component name="RunManager" selected="JUnit.DbManagerTestSuite.testSelectUsers">
+    <configuration name="DbManagerTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-jdbc.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.spring.library.*" />
+          <option name="PATTERN" value="com.kodilla.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kodilla.spring.library" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.spring.library.LibraryTestSuite" />
-      <option name="METHOD_NAME" value="testContext" />
+      <option name="PACKAGE_NAME" value="com.kodilla.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.jdbc.DbManagerTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbManagerTestSuite.testSelectUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-jdbc.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kodilla.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.jdbc.DbManagerTestSuite" />
+      <option name="METHOD_NAME" value="testSelectUsers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReaderTestSuite.testConditional" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kodilla-spring.test" />
+    <configuration name="PizzaTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-patterns.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.spring.reader.*" />
+          <option name="PATTERN" value="com.kodilla.patterns.builder.pizza.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kodilla.spring.reader" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.spring.reader.ReaderTestSuite" />
-      <option name="METHOD_NAME" value="testConditional" />
+      <option name="PACKAGE_NAME" value="com.kodilla.patterns.builder.pizza" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.patterns.builder.pizza.PizzaTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SettingsFileEngineTestSuite.testLoadSettings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-patterns.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.patterns.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kodilla.patterns.singleton" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.patterns.singleton.SettingsFileEngineTestSuite" />
+      <option name="METHOD_NAME" value="testLoadSettings" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SettingsFileEngineTestSuite.testSaveSettings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-patterns.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.patterns.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kodilla.patterns.singleton" />
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.patterns.singleton.SettingsFileEngineTestSuite" />
+      <option name="METHOD_NAME" value="testSaveSettings" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KodillaHiberneteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kodilla-hibernete.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kodilla.hibernete.KodillaHiberneteApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -448,11 +505,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ReaderTestSuite.testConditional" />
-        <item itemvalue="JUnit.LibraryTestSuite.testContext" />
-        <item itemvalue="Gradle.LibraryTestSuite.testLoadFromDb" />
-        <item itemvalue="Gradle.LibraryTestSuite" />
-        <item itemvalue="Gradle.SpringRunnerTestSuite" />
+        <item itemvalue="JUnit.DbManagerTestSuite.testSelectUsers" />
+        <item itemvalue="JUnit.DbManagerTestSuite" />
+        <item itemvalue="JUnit.PizzaTestSuite" />
+        <item itemvalue="JUnit.SettingsFileEngineTestSuite.testSaveSettings" />
+        <item itemvalue="JUnit.SettingsFileEngineTestSuite.testLoadSettings" />
       </list>
     </recent_temporary>
   </component>
@@ -468,26 +525,35 @@
       <updated>1561803238162</updated>
       <workItem from="1561803246763" duration="14652000" />
       <workItem from="1562688432873" duration="2405000" />
-      <workItem from="1562691392863" duration="389000" />
+      <workItem from="1562691392863" duration="969000" />
+      <workItem from="1562692561623" duration="3431000" />
+      <workItem from="1562701637680" duration="3929000" />
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1562691994403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562691994403</updated>
+    </task>
+    <task id="LOCAL-00002" summary="a">
+      <created>1562701745390</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562701745390</updated>
+    </task>
+    <task id="LOCAL-00003" summary="a">
+      <created>1562701913553</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562701913553</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SpringRunnerTestSuite - 2019.06.29 at 22h 32m 19s.xml">
-      <configuration name="SpringRunnerTestSuite" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="ForumUserTestSuite - 2019.06.29 at 22h 34m 32s.xml">
-      <configuration name="ForumUserTestSuite" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="ForumUserTestSuite - 2019.06.29 at 22h 36m 56s.xml">
-      <configuration name="ForumUserTestSuite" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="SpringRunnerTestSuite_testSquareLoadedIntoContainer - 2019.06.30 at 00h 40m 36s.xml">
-      <configuration name="SpringRunnerTestSuite.testSquareLoadedIntoContainer" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="SpringRunnerTestSuite_testCircleLoadedIntoContainer - 2019.06.30 at 00h 46m 26s.xml">
-      <configuration name="SpringRunnerTestSuite.testCircleLoadedIntoContainer" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="SpringRunnerTestSuite_testShapeLoadedIntoContainer - 2019.06.30 at 00h 46m 47s.xml">
       <configuration name="SpringRunnerTestSuite.testShapeLoadedIntoContainer" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -503,14 +569,30 @@
     <history-entry file="LibraryTestSuite_testLoadFromDb - 2019.06.30 at 07h 42m 58s.xml">
       <configuration name="LibraryTestSuite.testLoadFromDb" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="SettingsFileEngineTestSuite_testGetFileName - 2019.07.09 at 19h 23m 15s.xml">
+      <configuration name="SettingsFileEngineTestSuite.testGetFileName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SettingsFileEngineTestSuite_testLoadSettings - 2019.07.09 at 19h 23m 25s.xml">
+      <configuration name="SettingsFileEngineTestSuite.testLoadSettings" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SettingsFileEngineTestSuite_testSaveSettings - 2019.07.09 at 19h 23m 34s.xml">
+      <configuration name="SettingsFileEngineTestSuite.testSaveSettings" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DbManagerTestSuite - 2019.07.10 at 07h 08m 28s.xml">
+      <configuration name="DbManagerTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DbManagerTestSuite_testSelectUsers - 2019.07.10 at 07h 09m 24s.xml">
+      <configuration name="DbManagerTestSuite.testSelectUsers" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17446000" />
+    <option name="totallyTimeSpent" value="25386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -520,12 +602,12 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
@@ -551,308 +633,10 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kodilla/spring/intro/SpringIntroRunner.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kodilla/spring/intro/shape/Figure.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kodilla/spring/intro/shape/Drawer.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/kodilla/spring/intro/shape/DrawerTestSuite.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kodilla/spring/intro/shape/Triangle.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kodilla/spring/intro/shape/Circle.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-spring-intro/scr/main/java/com/kodilla/spring/intro/shape/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring-intro/scr/main/java/com/kodilla/spring/intro/shape/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring-intro/scr/main/java/com/kodilla/spring/intro/shape/Figure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring-intro/scr/main/java/com/kodilla/spring/intro/shape/Drawer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring-intro/scr/test/java/com/kodilla/spring/intro/shape/DrawerTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring-intro/scr/main/java/SpringIntroRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring-intro/scr/main/java/com/kodilla/spring/intro/shape/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/forum/ForumUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/forum/ForumUserTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/SpringRunnerTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/library/LibraryDbController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/calculator/Display.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/SpringRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/ShapesFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="6" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/calculator/Display.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/calculator/CalculatorTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="112" selection-start-line="5" selection-start-column="112" selection-end-line="5" selection-end-column="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/library/Library.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/library/LibraryConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/library/LibraryTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/Board.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio.java" />
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/calculator/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio/TaskList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio/BoardConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/test/java/com/kodilla/spring/portfolio/BoardTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/reader/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/reader/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -902,24 +686,488 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio/Board.java">
+    <entry file="file://$PROJECT_DIR$/out/production/kodilla-spring-intro/com/kodilla/spring/intro/SpringIntroRunner.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-spring-web/src/main/java/com/kodilla/spring/web/KodillaSpringWebApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/kodilla-spring-intro/com/kodilla/spring/intro/SpringIntroRunner.class">
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/PatternsRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+          <caret selection-end-line="6" selection-end-column="1" />
           <folding>
-            <element signature="e#0#331#0" expanded="true" />
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-spring-web/src/main/java/com/kodilla/spring/web/KodillaSpringWebApplication.java">
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/TasksList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Prototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/BoardTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/prototype/library/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/prototype/library/LibraryTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/CorporateCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/IndividualYoungCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/IndividualCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/strategy/CustomerTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/social/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/BuyPredictor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/predictors/AggressivePredictor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/predictors/BalancedPredictor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/strategy/predictors/ConservativePredictor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/SettingsFileEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/singleton/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio/BoardConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio/TaskList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-spring/src/main/java/com/kodilla/spring/portfolio/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/factory/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/factory/ShapeFactoryTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/pizza/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+            <element signature="e#1252#1253#0" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/builder/pizza/PizzaTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/singleton/SettingsFileEngineTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Figure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Pawn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Queen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/FigureFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/main/java/com/kodilla/patterns/builder/checkers/Checkers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+          <folding>
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-patterns/src/test/java/com/kodilla/patterns/builder/checkers/CheckersTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-jdbc/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-jdbc/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-jdbc/src/main/java/com/kodilla/jdbc/DbManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-jdbc/src/test/java/com/kodilla/jdbc/DbManagerTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -972,11 +1220,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>kodilla-spring-intro</last-edited>
+          <last-edited>kodilla-patterns</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.27687776" />
                 <option value="0.6" />
               </list>
             </option>

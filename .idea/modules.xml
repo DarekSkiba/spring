@@ -5,6 +5,15 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kodilla.kodilla-spring-web.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodilla-hibernete/kodilla-hibernete.iml" filepath="$PROJECT_DIR$/kodilla-hibernete/kodilla-hibernete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-hibernete.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-hibernete.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-hibernete.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-hibernete.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-jdbc.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-jdbc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-jdbc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-jdbc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-jdbc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-patterns.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-patterns.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-patterns.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-patterns.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-patterns.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-spring.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/kodilla-spring-intro.iml" filepath="$PROJECT_DIR$/kodilla-spring-intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/kodilla-spring-web/kodilla-spring-web.iml" filepath="$PROJECT_DIR$/kodilla-spring-web/kodilla-spring-web.iml" />
